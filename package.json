@@ -1,0 +1,15 @@
+{
+  "name": "tally-form-automation",
+  "version": "1.0.0",
+  "description": "Automated email confirmations for Tally form submissions",
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
